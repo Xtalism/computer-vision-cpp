@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/xtal/computer-vision-cpp/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4 -g -o CMakeFiles/computer_vision_cpp.dir/src/main.cpp.o -c /home/xtal/computer-vision-cpp/src/main.cpp",
+  "file": "/home/xtal/computer-vision-cpp/src/main.cpp",
+  "output": "CMakeFiles/computer_vision_cpp.dir/src/main.cpp.o"
+}
+]
